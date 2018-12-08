@@ -1,1 +1,1 @@
-web: gunicorn B1NLU.wsgi --log-file -
+web: python app.py
