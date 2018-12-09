@@ -1,1 +1,1 @@
-web: gunicorn app:app --preload
+web: gunicorn B1NLU.wsgi --log-file -
